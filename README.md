@@ -1,3 +1,3 @@
 # Python---Modeling
 
-Artifical neural netork to model churn rate
+Artifical neural network to model churn rate
